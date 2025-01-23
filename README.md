@@ -1,0 +1,1 @@
+This repository contains a simple example of a common Python error: implicit type conversion errors in functions. The function `function` attempts to add an integer and a string which results in a `TypeError`. The solution demonstrates how to explicitly handle different data types.
